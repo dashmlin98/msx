@@ -1,0 +1,18 @@
+{
+   "type": "pages",
+   "headline": "FFMPEG",
+   "template": {
+      "tag": "GOOD IMAGE",
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:movie",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "FFmpeg",
+         "playerLabel": "YouTube",
+         "action": "image:https://github.com/FFmpeg.png?size=40"
+      }
+   ]
+}
