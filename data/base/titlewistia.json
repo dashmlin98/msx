@@ -1,0 +1,23 @@
+{
+   "type": "pages",
+   "headline": "Wistia",
+   "pages": [
+      {
+         "headline": "Different Combinations",
+         "items": [
+            {
+               "type": "default",
+               "layout": "0,0,4,3",
+               "headline": "Lorem ipsum dolor sit amet",
+               "text": "Lorem ipsum dolor sit amet",
+               "icon": "msx-white-soft:apps",
+               "titleHeader": "Lorem ipsum dolor sit amet",
+               "title": "Lorem ipsum dolor sit amet",
+               "titleFooter": "Lorem ipsum dolor sit amet",
+               "image": "https://github.com/lucamoraru/lucamoraru.github.io/blob/main/VideoCapture_20251104-141422.jpg?raw=true",
+               "imageFiller": "cover"
+            }
+         ]
+      }
+   ]
+}
