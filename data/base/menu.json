@@ -1,0 +1,33 @@
+{
+   "type": "list",
+   "headline": "Template",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "icon": "msx-white-soft:movie",
+      "iconSize": "medium",
+      "title": "Title",
+      "titleFooter": "Title Footer"
+   },
+   "items": [
+      {
+         "title": "Nick JR."
+      },
+      {
+         "title": "Disney Junior"
+      },
+      {
+         "title": "PBS Kids"
+      },
+      {
+         "title": "Comedy Central"
+      },
+      {
+         "title": "Nickelodeon"
+      },
+      {
+         "title": "Windows XP"
+      }
+   ]
+}
