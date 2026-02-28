@@ -1,33 +1,48 @@
 {
-   "type": "list",
-   "headline": "Template",
-   "template": {
-      "type": "separate",
-      "layout": "0,0,2,4",
-      "color": "msx-glass",
-      "icon": "msx-white-soft:movie",
-      "iconSize": "medium",
-      "title": "Title",
-      "titleFooter": "Title Footer"
-   },
-   "items": [
+   "headline": "GitHub Pages Example",
+   "menu": [
       {
-         "title": "Nick JR."
+         "icon": "info",
+         "label": "Welcome",
+         "data": "https://dashmlin98.github.io/msx/welcome.json"
       },
       {
-         "title": "Disney Junior"
+         "type": "separator",
+         "label": "Database"
       },
       {
-         "title": "PBS Kids"
+         "icon": "movie",
+         "label": "Corn",
+         "data": "https://dashmlin98.github.io/msx/data/base/corn.json"
       },
       {
-         "title": "Comedy Central"
+         "icon": "music-note",
+         "label": "DCM Photos",
+         "data": "https://dashmlin98.github.io/msx/data/base/dacoderphotos.json"
       },
       {
-         "title": "Nickelodeon"
+         "icon": "image",
+         "label": "FFmpeg",
+         "data": "https://dashmlin98.github.io/msx/data/base/ffmpeg.json"
       },
       {
-         "title": "Windows XP"
+         "icon": "smart-display",
+         "label": "Sorry, i can't provide a menu.",
+         "data": "https://dashmlin98.github.io/msx/data/base/sorry.json"
+      },
+      {
+         "type": "separator",
+         "label": "Part 2"
+      },
+      {
+         "icon": "view-stream",
+         "label": "Title Wistia",
+         "data": "https://dashmlin98.github.io/msx/data/base/titlewistia.json"
+      },
+      {
+         "icon": "view-stream",
+         "label": "Video plugin",
+         "data": "https://dashmlin98.github.io/msx/data/base/videoplugin.json"
       }
    ]
 }
