@@ -1,0 +1,28 @@
+{
+   "type": "pages",
+   "headline": "Video Plugin",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "icon": "msx-white-soft:movie",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "YouTube",
+         "playerLabel": "YouTube",
+         "action": "video:http://msx.benzac.de/media/video1.mp4"
+      },
+      {
+         "title": "Internet Archive",
+         "playerLabel": "Internet Archive",
+         "action": "video:https://dn710000.ca.archive.org/0/items/jern-multirenders/jern%20new%20channel%20%28100%25%20completed%29/JERN%20Old%20video_%20Unknown%20Multi-Rendering%20Round%203%20vs%20Joshua%20solanila.mp4"
+      },
+      {
+         "title": "Video 3",
+         "playerLabel": "Video 3",
+         "action": "video:http://msx.benzac.de/media/video3.mp4"
+      }
+   ]
+}
